@@ -15,6 +15,10 @@
 
 To run this application,  use npm start, then the application should work.
 
+## Run
+
+https://netflixclone-reactapp.netlify.app/
+
 ## Technology
 
 The application is built with:
